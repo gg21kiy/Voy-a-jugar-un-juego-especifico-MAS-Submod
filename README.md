@@ -2,6 +2,8 @@
 
 Un SUBMOD para despedirte de Monika especificando el videojuego que jugaras
 
+<img src="./p1.png" width="300">
+
 # Instrucciones:
 
 Selecciona: Hablar→Adios→Voy a jugar un juego específico.
