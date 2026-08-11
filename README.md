@@ -2,7 +2,7 @@
 
 Un SUBMOD para despedirte de Monika especificando el videojuego que jugaras
 
-<img src="./p1.jpg" width="300">
+<img src="./p1.jpg" width="100%">
 
 # Instrucciones:
 
