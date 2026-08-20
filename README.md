@@ -3,9 +3,9 @@
 # Voy a Jugar un Juego Específico
 ### Submod para Monika After Story
 
-![MAS Compatible](https://img.shields.io/badge/MAS-v0.12.0+-ff7eb9?style=for-the-badge&logo=renpy&logoColor=white)
-![Version](https://img.shields.io/badge/Versi%C3%B3n-1.5.0-blue?style=for-the-badge)
-![Plugin Compatible](https://img.shields.io/badge/Submod_Updater_Plugin-Compatible-success?style=for-the-badge)
+[![MAS Compatible](https://img.shields.io/badge/MAS-v0.12.0+-ff7eb9?style=for-the-badge&logo=renpy&logoColor=white)](https://github.com/Monika-After-Story/MonikaModDev)
+[![Version](https://img.shields.io/badge/Versi%C3%B3n-1.5.0-blue?style=for-the-badge)](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/latest)
+[![Plugin Compatible](https://img.shields.io/badge/Submod_Updater_Plugin-Compatible-success?style=for-the-badge)](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin/)
 
 <br>
 
