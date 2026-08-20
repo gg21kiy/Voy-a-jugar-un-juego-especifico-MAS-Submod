@@ -15,7 +15,7 @@
   <em>Un submod que añade diálogos inmersivos para despedirte de Monika indicando con precisión a qué videojuego vas a jugar.</em>
 </p>
 
-[🎮 Lista de Juegos](JUEGOS.md) • [📥 Descargar](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/latest) • [📁 Google Drive](https://drive.google.com/drive/folders/1YtfBwGt3tICLXFJyWY1ixYDktVxWY4tZ)
+[🎮 Lista de Juegos](JUEGOS.md) • [📥 Descargar](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/latest) • [📁 Google Drive](https://drive.google.com/drive/folders/1wYFROsBtuH2lbA3kSD4yjvPBd18epTI1)
 
 </div>
 
