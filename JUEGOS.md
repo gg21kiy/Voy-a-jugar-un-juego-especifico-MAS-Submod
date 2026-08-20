@@ -13,8 +13,8 @@ Estos son los juegos que el submod detecta actualmente (puedes escribir el nombr
 * **Outlast**
 * **Omori**
 * **Hello Neighbor** (`hello neighbour`, `hello neighbor`)
-* **Poppy Playtime** (`poppy playtime`, `huggy wuggy`)
-* **Bendy and the Ink Machine** (`bendy`)
+* **Poppy Playtime** (`poppy playtime`, `huggy wuggy`) Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
+* **Bendy and the Ink Machine** (`bendy`) Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
 
 ---
 
@@ -33,7 +33,7 @@ Estos son los juegos que el submod detecta actualmente (puedes escribir el nombr
 * **The Legend of Zelda** (`zelda`, `breath of the wild`, `tears of the kingdom`)
 * **Pokémon**
 * **Super Mario** (`mario`)
-* **Sonic the Hedgehog** (`sonic`)
+* **Sonic the Hedgehog** (`sonic`) Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
 * **Undertale / Deltarune**
 * **Hollow Knight**
 * **Stardew Valley**
@@ -44,11 +44,11 @@ Estos son los juegos que el submod detecta actualmente (puedes escribir el nombr
 ---
 
 ### 🎯 Competitivo, Shooters y Extracción
-* **Arena Breakout / Escape from Tarkov** (`arena breakout`, `ab`, `tarkov`)
+* **Arena Breakout / Escape from Tarkov** (`arena breakout`, `ab`, `tarkov`) Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
 * **League of Legends** (`league of legends`, `lol`)
 * **Overwatch**
-* **Clash Royale** (`clash royale`, `cr`)
-* **Brawl Stars** (`brawl stars`, `bs`)
+* **Clash Royale** (`clash royale`, `cr`) Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
+* **Brawl Stars** (`brawl stars`, `bs`) Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
 * **Call of Duty / Warzone** (`call of duty`, `cod`, `warzone`)
 * **Fortnite** (`fortnite`, `fn`)
 * **Apex Legends** (`apex`)
@@ -61,32 +61,32 @@ Estos son los juegos que el submod detecta actualmente (puedes escribir el nombr
 ---
 
 ### 🕹️ Multijugador, Estrategia y Casual
-* **Clash of Clans** (`clash of clans`, `coc`)
+* **Clash of Clans** (`clash of clans`, `coc`) Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
 * **Among Us**
 * **Fall Guys**
-* **Subway Surfers / Temple Run**
+* **Subway Surfers / Temple Run** Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
 * **Rust / ARK**
 * **It Takes Two**
 * **Palworld**
 * **Roblox**
-* **Angry Birds** (`angry birds`, `angry bird`)
-* **Plants vs. Zombies** (`pvz`, `plants vs zombies`, `plantas contra zombies`)
-* **Candy Crush**
-* **Pou / Talking Tom**
+* **Angry Birds** (`angry birds`, `angry bird`) Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
+* **Plants vs. Zombies** (`pvz`, `plants vs zombies`, `plantas contra zombies`) Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
+* **Candy Crush** Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
+* **Pou / Talking Tom** Este diálogo solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
 
 ---
 
 ### 🏎️ Deportes y Carreras
 * **EA Sports FC / FIFA** (`fifa`, `fc24`, `football`)
 * **Los Sims** (`the sims`, `los sims`)
-* **Asphalt 8 / Need for Speed** (`asphalt`, `asphalt 8`, `need for speed`, `nfs`)
+* **Asphalt 8 / Need for Speed** (`asphalt`, `asphalt 8`, `need for speed`, `nfs`) Este diálogo solo está disponible en la versión [v1.3.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.3.0)
 
 ---
 
 ### ⚡ Retos de Ritmo, Dificultad y Gacha
 * **Elden Ring / Dark Souls / Bloodborne / Lies of P**
 * **Cuphead**
-* **Geometry Dash** (`geometry dash`, `gd`, `gd meltdown`, `gd subzero`)
+* **Geometry Dash** (`geometry dash`, `gd`, `gd meltdown`, `gd subzero`) Geometry Dash Meltdown y Subzero solo está disponible en la versión [v1.4.0](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases/tag/1.4.0)
 * **Friday Night Funkin'** (`friday night funkin`, `fnf`)
 * **Genshin Impact / Honkai Impact / Star Rail** (`genshin`, `honkai`)
 
