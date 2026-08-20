@@ -63,9 +63,3 @@ Para eliminar el submod, simplemente borra su archivo correspondiente dentro del
 * Desarrollado por **[@gg21kiy](https://github.com/gg21kiy)**.
 * Este submod surgió de la comunidad de **Encoders Club**. Únete a su servidor de Discord aquí: **[Discord de Encoders Club](PON_AQUI_EL_ENLACE)**.
 * Basado en la plataforma de **[Monika After Story](https://github.com/Monika-After-Story/MonikaModDev)**.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gg21kiy&repo=Voy-a-jugar-un-juego-especifico-MAS-Submod&layout=compact&theme=dark" alt="Lenguajes utilizados en el repositorio" />
-</div>
