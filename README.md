@@ -25,8 +25,7 @@
 
 * **Diálogos personalizados:** Respuestas únicas y variadas adaptadas al juego que elijas.
 * **Gran catálogo:** Compatible con sagas populares como *GTA*, *FNAF*, *Resident Evil*, *Zelda*, *Pokémon*, *Club Penguin* y muchas más.
-* **Soporte para Submod Updater Plugin:** Recibe avisos y actualiza el submod directamente desde el menú del juego sin configuraciones complicadas.
-* **Corrección de errores:** Función `BRB` reparada y optimizada para la versión 1.5.0+.
+* **Soporte para Submod Updater Plugin:** Recibe avisos y actualiza el submod directamente desde el menú del juego sin configuraciones complicadas. (Solo disponible en versión 1.5.0 o superior)
 
 ---
 
