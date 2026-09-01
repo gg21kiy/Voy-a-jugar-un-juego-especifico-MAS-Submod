@@ -60,5 +60,5 @@ Para eliminar el submod, simplemente borra su archivo correspondiente dentro del
 ## 🤝 Créditos y Agradecimientos
 
 * Desarrollado por **[@gg21kiy](https://github.com/gg21kiy)**.
-* Este submod surgió de la comunidad de **Encoders Club**. Únete a su servidor de Discord aquí: **[Discord de Encoders Club](https://discord.gg/UHFQS2CQe)**.
+* Este submod surgió dentro de la comunidad de **Encoders Club**. Únete a su servidor de Discord aquí: **[Discord de Encoders Club](https://discord.gg/UHFQS2CQe)**.
 * Hecho para la plataforma de **[Monika After Story](https://github.com/Monika-After-Story/MonikaModDev)**.
